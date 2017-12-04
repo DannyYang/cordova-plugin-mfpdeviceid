@@ -2,7 +2,7 @@
 This plugin deviceID is equal to WL.Device.getID (MobileFirst 6.2 ~ 7.1)
 You can use it to get same deviceId in MobileFirst 8 APP
 
-# iOS Pre-requisites :
+# iOS prerequisites :
 You need to turn on keychain Sharing in Xcode Capabilities
 
 
