@@ -1,6 +1,5 @@
 # cordova-plugin-mfpdeviceid
-This plugin deviceID is equal to WL.Device.getID (MobileFirst 6.2 ~ 7.1)
-You can use it to get same deviceId in MobileFirst 8 APP
+
 
 # cordova plugin requirement :
 cordova-plugin-mfp
