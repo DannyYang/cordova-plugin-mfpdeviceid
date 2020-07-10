@@ -6,6 +6,7 @@ cordova-plugin-mfp
 
 # iOS prerequisites :
 You need to turn on keychain Sharing in Xcode Capabilities
+then add worklight.group to Keychain groups
 
 # Android setup :
 (option)You need to add wlDeviceIdStrength=strong in your mfpclient.properties
